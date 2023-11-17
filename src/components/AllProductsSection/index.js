@@ -8,6 +8,7 @@ import ProductsHeader from '../ProductsHeader'
 
 import './index.css'
 
+// eslint-disable-next-line no-unused-vars
 const categoryOptions = [
   {
     name: 'Clothing',
